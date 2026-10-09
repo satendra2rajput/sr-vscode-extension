@@ -1,10 +1,10 @@
-# KudoEngineer Angular Toolkit
+# SR Angular Toolkit
 
 Developer toolkit for Angular developers.
 
 Created by **Satendra Rajput**.
 
-KudoEngineer Angular Toolkit provides useful Angular development utilities directly inside Visual Studio Code.
+SR Angular Toolkit provides useful Angular development utilities directly inside Visual Studio Code.
 
 ## ✨ Current Features
 
@@ -40,7 +40,7 @@ Ctrl + Shift + P
 Search for:
 
 ```text
-KudoEngineer: Generate Component
+SR: Generate Component
 ```
 
 Select the component location and enter the component name.
@@ -61,17 +61,17 @@ The extension will generate the component files automatically.
 
 ## 🛠️ Commands
 
-| Command                          | Description                              |
-| -------------------------------- | ---------------------------------------- |
-| KudoEngineer: Generate Component | Generate an Angular standalone component |
+| Command                | Description                              |
+| ---------------------- | ---------------------------------------- |
+| SR: Generate Component | Generate an Angular standalone component |
 
-## 🧩 About KudoEngineer
+## 🧩 About
 
-KudoEngineer provides developer tools, resources and productivity utilities for software developers.
+SR provides developer tools, resources and productivity utilities for software developers.
 
 **Created by:** Satendra Rajput
 
-**Website:** https://kudoengineer.com
+**Website:** https://www.satendra2rajput.com/
 
 ## 📌 Roadmap
 
@@ -86,7 +86,7 @@ More Angular developer productivity features are planned, including:
 - Enum Generator
 - Angular Project Explorer
 - Angular Code Snippets
-- KudoEngineer NPM Package Integration
+- SR NPM Package Integration
 - Angular Code Quality Checks
 
 ## 📄 License
@@ -94,7 +94,3 @@ More Angular developer productivity features are planned, including:
 MIT
 
 ---
-
-**KudoEngineer Angular Toolkit**
-Created with ❤️ by **Satendra Rajput**
-"# sr-vscode-extension" 

@@ -3,10 +3,10 @@ import * as vscode from "vscode";
 import { generateComponentCommand } from "./commands/generate-component.command";
 
 export function activate(context: vscode.ExtensionContext): void {
-  console.log("KudoEngineer Angular Toolkit is now active!");
+  console.log("sr Angular Toolkit is now active!");
 
   const generateComponentDisposable = vscode.commands.registerCommand(
-    "kudoengineer-angular-toolkit.generateComponent",
+    "sr-angular-toolkit.generateComponent",
     generateComponentCommand,
   );
 

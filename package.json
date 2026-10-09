@@ -1,9 +1,9 @@
 {
-  "name": "kudoengineer-angular-toolkit",
-  "displayName": "KudoEngineer Angular Toolkit",
+  "name": "sr-angular-toolkit",
+  "displayName": "SR Angular Toolkit",
   "description": "Developer toolkit for Angular developers with generators, snippets, project utilities, and productivity features.",
   "version": "0.0.1",
-  "publisher": "kudoengineer",
+  "publisher": "satendra2rajput",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.138.0"
@@ -16,8 +16,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "kudoengineer-angular-toolkit.generateComponent",
-        "title": "KudoEngineer: Generate Component"
+        "command": "sr-angular-toolkit.generateComponent",
+        "title": "sr: Generate Component"
       }
     ]
   },
